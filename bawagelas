@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cara Mengambil Gelas di Dapur</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            background-color: #f3f4f6;
+        }
+        h1 {
+            color: #333;
+        }
+        .step {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .step img {
+            width: 100px;
+            height: auto;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cara Mengambil Gelas di Dapur</h1>
+    
+    <div class="step">
+        <h2>Langkah 1</h2>
+        <p>Masuk ke dapur.</p>
+        <img src="path_to_image1.jpg" alt="Dapur">
+    </div>
+
+    <div class="step">
+        <h2>Langkah 2</h2>
+        <p>Cari lemari tempat gelas disimpan.</p>
+        <img src="path_to_image2.jpg" alt="Lemari">
+    </div>
+
+    <div class="step">
+        <h2>Langkah 3</h2>
+        <p>Buka lemari dan ambil satu gelas.</p>
+        <img src="path_to_image3.jpg" alt="Ambil Gelas">
+    </div>
+
+    <div class="step">
+        <h2>Langkah 4</h2>
+        <p>Jangan lupa bawa gelasnya ke sekolah!</p>
+        <img src="path_to_image4.jpg" alt="Bawa Gelas ke Sekolah">
+    </div>
+
+</body>
+</html>
